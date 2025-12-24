@@ -24,5 +24,4 @@ h1 {
 .stuart-tier {
     height: 500px;          /* Sets the size */
     object-fit: cover;      /* Ensures the image doesn't look squashed/stretched */
-    margin-bottom: 5px;    
 }
