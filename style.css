@@ -14,7 +14,7 @@ h1 {
     margin: 20px auto;
 }
 
-.profile-pic {
+#profile-pic {
     width: 150px;           /* Sets the size */
     height: 150px;          /* Sets the size */
     object-fit: cover;      /* Ensures the image doesn't look squashed/stretched */
