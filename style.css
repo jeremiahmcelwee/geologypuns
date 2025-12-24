@@ -20,3 +20,9 @@ h1 {
     object-fit: cover;      /* Ensures the image doesn't look squashed/stretched */
     margin-bottom: 5px;    /* Adds space between photo and name */
 }
+
+.stuart-tier {
+    height: 500px;          /* Sets the size */
+    object-fit: cover;      /* Ensures the image doesn't look squashed/stretched */
+    margin-bottom: 5px;    
+}
