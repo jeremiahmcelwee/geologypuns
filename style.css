@@ -15,8 +15,8 @@ h1 {
 }
 
 .profile-pic {
-    width: 175px;           /* Sets the size */
-    height: 175px;          /* Sets the size */
+    width: 500px;           /* Sets the size */
+    height: 500px;          /* Sets the size */
     object-fit: cover;      /* Ensures the image doesn't look squashed/stretched */
     margin-bottom: 8px;    /* Adds space between photo and name */
 }
