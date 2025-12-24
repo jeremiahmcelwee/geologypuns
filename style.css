@@ -18,5 +18,5 @@ h1 {
     width: 500px;           /* Sets the size */
     height: 500px;          /* Sets the size */
     object-fit: cover;      /* Ensures the image doesn't look squashed/stretched */
-    margin-bottom: 8px;    /* Adds space between photo and name */
+    margin-bottom: 5px;    /* Adds space between photo and name */
 }
