@@ -14,11 +14,10 @@ h1 {
     margin: 20px auto;
 }
 
-#profile-pic {
-    width: 150px;           /* Sets the size */
-    height: 150px;          /* Sets the size */
+.profile-pic {
+    width: 100px;           /* Sets the size */
+    height: 100px;          /* Sets the size */
     object-fit: cover;      /* Ensures the image doesn't look squashed/stretched */
     border-radius: 50%;     /* Makes it a perfect circle */
-    border: 3px solid #333; /* Adds a border around the photo */
     margin-bottom: 15px;    /* Adds space between photo and name */
 }
