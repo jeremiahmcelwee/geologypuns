@@ -4,17 +4,6 @@ h1 {
 }
 
 /* Center the pun text */
-#refresh-pun {
-    text-align: center;
-    
-    /* Limit the width */
-    max-width: 600px;
-    
-    /* Center the text box */
-    margin: 20px auto;
-}
-
-/* Center the pun text */
 #centered {
     text-align: center;
     
@@ -25,13 +14,13 @@ h1 {
     margin: 20px auto;
 }
 .profile-pic {
-    width: 250px;           /* Sets the size */
-    height: 250px;          /* Sets the size */
-    object-fit: cover;      /* Ensures the image doesn't look squashed/stretched */
-    margin-bottom: 5px;    /* Adds space between photo and name */
+    width: 250px;           /* Image size */
+    height: 250px;          
+    object-fit: cover;      /* Fix aspect ratio */
+    margin-bottom: 5px;    /* Adds space after photo */
 }
 
 .stuart-tier {
-    height: 500px;          /* Sets the size */
-    object-fit: cover;      /* Ensures the image doesn't look squashed/stretched */
+    height: 500px;          /* Image size */
+    object-fit: cover;      /* Fix aspect ratio */
 }
