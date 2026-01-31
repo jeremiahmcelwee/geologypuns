@@ -12,7 +12,7 @@ const puns = [
     "May the quartz be with you",
     "Please be patient with geologists. They all have their faults.",
     "Tectonic plates can't maintain relationships with each other. There's just too much friction",
-    "I have to say, this website got off to a rocky start.",
+    "I have to say, this website got off to a rocky start."
 ];
 
 // Setup a list of random integers corresponding to each pun
